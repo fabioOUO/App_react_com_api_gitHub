@@ -1,5 +1,5 @@
-# jogo_da_cobrinha_dio
-### Descrição: Criando jogo da cobrinha usando HTML, javaScript e css.
+# App_react_com_api_gitHub
+### Descrição: 
 ### Autor: Fábio Júnior Barbosa
 
 
